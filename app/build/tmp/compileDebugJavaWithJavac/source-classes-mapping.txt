@@ -1,0 +1,5 @@
+com/example/bsef19m049loginscreen/BuildConfig.java
+ com.example.bsef19m049loginscreen.BuildConfig
+com/example/bsef19m049loginscreen/MainActivity.java
+ com.example.bsef19m049loginscreen.MainActivity
+ com.example.bsef19m049loginscreen.MainActivity$1
